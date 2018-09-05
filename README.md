@@ -4,8 +4,7 @@
 	GIỚI THIỆU PHÒNG KHÁM ĐA KHOA THÁI HÀ</h2>
 <p>
 	Phòng khám đa khoa Thái Hà hội tụ nhiều ưu điểm vượt trội của một phòng khám tư nhân đạt chuẩn y tế. Trong xuất quá trình thành lập và hoạt động, phòng khám Thái Hà luôn nhận được sự tin tưởng và tín nhiệm từ người bệnh khi đến thăm khám và điều trị tại phòng khám.</p>
-<p>
-	<img alt="Phòng khám đa khoa Thái Hà - Chất lượng, uy tín" src="http://phathaithaiha.org/media/images/Phong-kham-da-khoa-thai-ha.jpg" title="Phòng khám đa khoa Thái Hà - Chất lượng, uy tín" /></p>
+
 <p>
 	Chất lượng phòng khám Thái Hà ngày càng được khẳng định.</p>
 <h3>
@@ -26,8 +25,7 @@
 </blockquote>
 <h3>
 	Đội ngũ y bác sỹ Phòng khám Thái Hà, giàu kinh nghiệm, tận tâm</h3>
-<p>
-	<img alt="Đội ngũ y bác sĩ phòng khám đa khoa Thái Hà" src="http://phathaithaiha.org/media/images/Phong-kham-da-khoa-thai-ha-1.jpg" title="Đội ngũ y bác sĩ phòng khám đa khoa Thái Hà" /></p>
+
 <p>
 	Phòng khám là nơi hội tụ đội ngũ y bác sĩ chuyên khoa giỏi.</p>
 <p>
@@ -38,8 +36,7 @@
 	Phòng khám áp dụng khoa học kỹ thuật tiên tiến vượt trội</h3>
 <p>
 	✜Trải qua nhiều năm phát triển, Phòng khám đa khoa Thái Hà đã tư vấn và điều trị cho hàng trăm nghìn bệnh nhân, mang lại niềm vui, hạnh phúc cho nhiều gia đình. Phòng khám luôn nỗ lực hết mình thực hiện những yêu cầu chất lượng của một địa chỉ phòng khám đạt chuẩn mà bộ y tế đề ra, xứng đáng là đơn vị y tế được tin yêu nhất Hà Nội.</p>
-<p>
-	<img alt="Cơ sở trang thiết bị phòng khám Thái Hà hiện đại" src="http://phathaithaiha.org/media/images/phong-kham-da-khoa-thai-ha-2.jpg" title="Cơ sở trang thiết bị phòng khám Thái Hà hiện đại" /></p>
+
 <p>
 	Cơ sở vật chất hiện đại, đạt chuẩn.</p>
 <p>
