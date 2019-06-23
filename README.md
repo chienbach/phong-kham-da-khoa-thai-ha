@@ -75,3 +75,4 @@
 </div>
 <p>
 	Với những ưu điểm vượt trội, Phòng khám Thái Hà luôn xứng đáng là một trong những cơ sở y tế uy tín, chất lượng, người bệnh có thể hoàn toàn an tâm và tin tưởng lựa chọn là địa chỉ chăm sóc sức khỏe, khám chữa bệnh cho bản thân cũng như những người thân trong gia đình. Liên hệ ngayPhòng khám đa khoa Thái Hànếu bạn đang có những khó khăn trong việc tìm kiếm một địa chỉ phòng khám đa khoa nào tốt ở hà nội? Hãy để các bác sĩ chuyên khoa giúp bạn chăm sóc và bảo vệ sức khỏe tốt nhất.</p>
+	http://phongkhamthaiha.net
