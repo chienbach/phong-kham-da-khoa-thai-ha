@@ -1,9 +1,9 @@
 <p>
-	Phòng khám đa khoa Thái Hà, được thành lập và xây dụng nhằm góp phần giảm tải về số lượng bệnh nhân thăm khám tại các cơ sở y tế công lập, đáp ứng nhu cầu dịch vụ y tế chăm sóc sức khỏe cho mọi người. Cùng với sự phát triển của xã hội, nhu cầu chăm sóc sức khỏe của người dân cũng được ưu tiên hàng đầu, tuy nhiên việc tìm kiếm và lựa chọn một cơ sở y tế uy tín, phòng khám đa khoa uy tín ở hà nội, có đội ngũ y bác sĩ giỏi, các trang thiết bị đạt chuẩn, cùng với chi phí hợp lý, trong khi có quá nhiều phòng khám tư nhân, phòng khám chui, không tốt, phòng khám lừa đảo... luôn là vấn đề mà rất nhiều người đang quan tâm.</p>
+	<a href="https://trello.com/phongkhamthaiha">Phòng khám đa khoa Thái Hà</a>, được thành lập và xây dụng nhằm góp phần giảm tải về số lượng bệnh nhân thăm khám tại các cơ sở y tế công lập, đáp ứng nhu cầu dịch vụ y tế chăm sóc sức khỏe cho mọi người. Cùng với sự phát triển của xã hội, nhu cầu chăm sóc sức khỏe của người dân cũng được ưu tiên hàng đầu, tuy nhiên việc tìm kiếm và lựa chọn một cơ sở y tế uy tín, phòng khám đa khoa uy tín ở hà nội, có đội ngũ y bác sĩ giỏi, các trang thiết bị đạt chuẩn, cùng với chi phí hợp lý, trong khi có quá nhiều phòng khám tư nhân, phòng khám chui, không tốt, phòng khám lừa đảo... luôn là vấn đề mà rất nhiều người đang quan tâm.</p>
 <h2>
 	GIỚI THIỆU PHÒNG KHÁM ĐA KHOA THÁI HÀ</h2>
 <p>
-	Phòng khám đa khoa Thái Hà hội tụ nhiều ưu điểm vượt trội của một phòng khám tư nhân đạt chuẩn y tế. Trong xuất quá trình thành lập và hoạt động, phòng khám Thái Hà luôn nhận được sự tin tưởng và tín nhiệm từ người bệnh khi đến thăm khám và điều trị tại phòng khám.</p>
+	<a href="https://readthedocs.org/projects/phong-kham-thai-ha/">Phòng khám Thái Hà</a> hội tụ nhiều ưu điểm vượt trội của một phòng khám tư nhân đạt chuẩn y tế. Trong xuất quá trình thành lập và hoạt động, phòng khám Thái Hà luôn nhận được sự tin tưởng và tín nhiệm từ người bệnh khi đến thăm khám và điều trị tại phòng khám.</p>
 
 <p>
 	Chất lượng phòng khám Thái Hà ngày càng được khẳng định.</p>
