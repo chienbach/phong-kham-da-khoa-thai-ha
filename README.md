@@ -3,7 +3,7 @@
 <h2>
 	GIỚI THIỆU PHÒNG KHÁM ĐA KHOA THÁI HÀ</h2>
 <p>
-	<a href="https://readthedocs.org/projects/phong-kham-thai-ha/">Phòng khám Thái Hà</a> hội tụ nhiều ưu điểm vượt trội của một phòng khám tư nhân đạt chuẩn y tế. Trong xuất quá trình thành lập và hoạt động, phòng khám Thái Hà luôn nhận được sự tin tưởng và tín nhiệm từ người bệnh khi đến thăm khám và điều trị tại phòng khám.</p>
+	<a href="http://phongkhamphukhoathaiha.webflow.io/posts/phong-kham-da-khoa-thai-ha">Phòng khám Thái Hà</a> hội tụ nhiều ưu điểm vượt trội của một phòng khám tư nhân đạt chuẩn y tế. Trong xuất quá trình thành lập và hoạt động, phòng khám Thái Hà luôn nhận được sự tin tưởng và tín nhiệm từ người bệnh khi đến thăm khám và điều trị tại phòng khám.</p>
 
 <p>
 	Chất lượng phòng khám Thái Hà ngày càng được khẳng định.</p>
